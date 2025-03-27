@@ -1,0 +1,16 @@
+﻿  1.2.cpp
+D:\1.2\1.2\1.2.cpp(55,24): warning C4244: “初始化”: 从“_Rep”转换到“double”，可能丢失数据
+D:\1.2\1.2\1.2.cpp(55,24): warning C4244:         with
+D:\1.2\1.2\1.2.cpp(55,24): warning C4244:         [
+D:\1.2\1.2\1.2.cpp(55,24): warning C4244:             _Rep=__int64
+D:\1.2\1.2\1.2.cpp(55,24): warning C4244:         ]
+      D:\1.2\1.2\1.2.cpp(55,24):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\1.2\1.2\1.2.cpp(90,33):
+          查看对正在编译的函数 模板 实例化“TestGroupResult run_test_group<double(__cdecl *)(const double *,int),double*,int>(Func,int,int,double *,int)”的引用
+          with
+          [
+              Func=double (__cdecl *)(const double *,int)
+          ]
+  
+  1.2.vcxproj -> D:\1.2\x64\Debug\1.2.exe
